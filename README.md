@@ -1,0 +1,1 @@
+Simple app that uses node and npm modules to read, list, add, and remove notes.
